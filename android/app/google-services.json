@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386225928145",
+    "project_id": "vegetasi-app-39759",
+    "storage_bucket": "vegetasi-app-39759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386225928145:android:a6eb927a33aa10131bd2f0",
+        "android_client_info": {
+          "package_name": "com.example.vegetasi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDUrd8qW_l9oAZB7vpuoVb8vusXsWHH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
